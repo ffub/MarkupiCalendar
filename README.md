@@ -1,6 +1,3 @@
-MarkupiCalendar module for Process Wire
-=======================================
-
 Given a PageArray of pages, this module will render an iCalendar feed from them. 
 This is intended to be used directly from a template file. See usage below.
 
@@ -36,6 +33,5 @@ Copyright (C) 2011 by Stephen Tomlinson
 This module is licensed under Apache License v2.0, see LICENSE.TXT within the module folder.  
 The iCalcreator library is copyright (c) 2007-2011 Kjell-Inge Gustafsson and licensed under the LPGL.
 
+http://twitter.com/ffub
 http://www.processwire.com  
-http://www.kigkonsult.se/iCalcreator/  
-http://stephentomlinson.com
